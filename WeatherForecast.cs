@@ -2,6 +2,7 @@ namespace USMAPI;
 
 public class WeatherForecast
 {
+    //ID might be required
     public DateTime Date { get; set; }
 
     public int TemperatureC { get; set; }
